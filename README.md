@@ -1,36 +1,38 @@
 # Refer_CSS
 
-###CSS Reference Website Assignment
-Using the index.html template provided create a multi-page, two column layout website for the following CSS Rules:
+## CSS Reference Website Assignment
+
+#### Create a multi-page, two column layout website for the following CSS Rules:
 
 background
-	background-color
-	background-image
-	background-position
-	background-repeat
+background-color
+background-image	
+background-position
+background-repeat
+
 border
-	border-width
-	border-style
-	border-color
+border-width
+border-style
+border-color
 
 clear
 color
 display
 float
 font
-	font-style
-	font-variant
-	font-weight
-	font-size
-	font-family
+font-style
+font-variant
+font-weight
+font-size
+font-family
 
 height
 letter-spacing
 line-height
 list-style
-	list-style-type
-	list-style position
-	list-style-image
+list-style-type
+list-style position
+list-style-image
 
 margin
 opacity
