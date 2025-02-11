@@ -10,15 +10,15 @@
 >> background-position
 >> background-repeat
 
-border
-border-width
-border-style
+> > border
+* border-width
++ border-style
 border-color
 
-clear
-color
+* clear
+    + color
 display
-float
+<space> float
 font
 font-style
 font-variant
@@ -26,7 +26,7 @@ font-weight
 font-size
 font-family
 
-height
+&nbsp; height
 letter-spacing
 line-height
 list-style
@@ -34,12 +34,13 @@ list-style-type
 list-style position
 list-style-image
 
-margin
+&ensp; margin
 opacity
 overflow
 padding
 text-align
-text-decoration
+
+&emsp; text-decoration
 text-indent
 text-transform
 width
