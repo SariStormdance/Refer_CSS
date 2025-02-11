@@ -2,13 +2,13 @@
 
 ## CSS Reference Website Assignment
 
-#### Create a multi-page, two column layout website for the following CSS Rules:
+### Create a multi-page, two column layout website for the following CSS Rules:
 
-background
-background-color
-background-image	
-background-position
-background-repeat
+#### background
+##### background-color
+##### background-image	
+##### background-position
+##### background-repeat
 
 border
 border-width
