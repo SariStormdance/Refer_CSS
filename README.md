@@ -5,41 +5,36 @@
 ### Create a multi-page, two column layout website for the following CSS Rules:
 
 background
-&emsp; background-color
-&emsp; background-image	
-&emsp; und-position
-&emsp; und-repeat
-
+background-color
+background-image
+background-position
+background-repeat
 border
-&emsp; border-width
-&emsp; border-style
-&emsp; border-color
-
+border-width
+border-style
+border-color
 clear
 color
 display
 float
 font
-&emsp; font-style
-&emsp; font-variant
-&emsp; font-weight
-&emsp; font-size
-&emsp; font-family
-
+font-style
+font-variant
+font-weight
+font-size
+font-family
 height
 letter-spacing
 line-height
 list-style
-&emsp; list-style-type
-&emsp; list-style position
-&emsp; list-style-image
-
+list-style-type
+list-style position
+list-style-image
 margin
 opacity
 overflow
 padding
 text-align
-
 text-decoration
 text-indent
 text-transform
