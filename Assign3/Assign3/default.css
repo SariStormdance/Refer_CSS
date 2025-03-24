@@ -1,12 +1,19 @@
 body {
-    background-color: gray;
+    background-color: rgb(216, 216, 187);
 }
 
 #page {
     width:650px;
     padding: 30px;
     margin: auto;
+}
 
+#header, #footer{
+    height: 75px;
+    background-color: gray;
+    text-align: center;
+    
+}
 
 
 
